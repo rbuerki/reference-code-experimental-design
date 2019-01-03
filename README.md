@@ -27,3 +27,18 @@ Tests covered in this notebook:
 **Example T-test Stroop:** Very small project. The objective is to demonstrate hypothesis testing based on observations regarding the so called Stroop Effect. A paired / dependent 2-sample-t-test is used for the hypothesis testing.
 
 **Examples A/B-Testing Web:** Demonstrate and test some functions I have written for hypothesis testing, especially with A/B-tests (on proportions). The custom function files can be found in the codebook folder / repository.
+
+
+### Install
+
+This project requires **Python 3.x** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org)
+- [Scipy](https://docs.scipy.org/doc/scipy/reference/index.html)
+- [matplotlib](http://matplotlib.org/)
+- [seaborn](http://seaborn.org)
+
+You will also need the custom file `hypothesis_functions`that can be found in my `codebook`repository.
+
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
