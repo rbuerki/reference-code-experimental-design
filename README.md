@@ -1,5 +1,7 @@
 # reference-code-experimental-design
 
+First, a link to a helpful blog article: [Which hypothesis test to perform?](https://towardsdatascience.com/which-hypothesis-test-to-perform-89d7044d34a1)
+
 ## Content of conceptual notebooks
 
 1) **Statistical Significance Testing:** Demonstrate different forms of statistical tests on recorded metrics of a hypothetical A/B test to see if there is a statistical difference between the two groups. Key content:
